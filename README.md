@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi, I'm Jen, welcome to my profile!
+🔭 I’m currently working on a tool to ease British Parliamentary debate deliberations
+
+🌱 I’m currently learning HTML and JavaScript
+
+📫 Reach me by email: jennifertaruno@gmail.com
 
 <!--
 **jentaruno/jentaruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
