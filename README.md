@@ -1,7 +1,7 @@
 ## Hi, I'm Jen, welcome to my profile!
-🔭 I’m currently working on a tool to ease British Parliamentary debate deliberations
+🔭 I’m currently working on a university course matching app!
 
-🌱 I’m currently learning HTML and JavaScript
+🌱 Learning React.js
 
 📫 Reach me by email: jennifertaruno@gmail.com
 
