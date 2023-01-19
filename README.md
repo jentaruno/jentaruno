@@ -1,7 +1,8 @@
 ## Hi, I'm Jen, welcome to my profile!
+
 🔭 I’m currently working on a university course matching app!
 
-🌱 Learning React.js
+🌱 Learning React.js, Java, and C++
 
 📫 Reach me by email: jennifertaruno@gmail.com
 
