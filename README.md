@@ -1,7 +1,6 @@
-## UBC Course Matcher
+## Current Project: [UBC Course Matcher](https://ubc-course-matcher.netlify.app/)!
 
-- 🔭 I’m currently working on a [university course matching app](https://ubc-course-matcher.netlify.app/)!
-- 🌱 Learning **React.js, Java, and C++**
+Obsessed with optimising processes and front-end dev. Currently learning **React.js, Java, and C++**
 
 ### Contacts
 [Email](mailto:jennifertaruno@gmail.com) | 
