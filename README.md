@@ -18,6 +18,7 @@ Obsessed with optimising processes and front-end dev. Currently learning **React
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 <!--
 **jentaruno/jentaruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
