@@ -1,8 +1,14 @@
-## Hi, I'm Jen, welcome to my profile!
+## UBC Course Matcher
 
 - 🔭 I’m currently working on a [university course matching app](https://ubc-course-matcher.netlify.app/)!
 - 🌱 Learning **React.js, Java, and C++**
-- 📫 Reach me by email: jennifertaruno@gmail.com
+
+### Contacts
+[Email](mailto:jennifertaruno@gmail.com) | 
+[Instagram](https://instagram.com/jentaruno) | 
+[Facebook](https://instagram.com/jentaruno) | 
+[LinkedIn](https://www.linkedin.com/in/jennifertaruno/)
+
 
 ### Languages and Tools
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
