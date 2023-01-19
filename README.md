@@ -1,6 +1,6 @@
-## Current Project: [UBC Course Matcher](https://ubc-course-matcher.netlify.app/)!
-
 Obsessed with optimising processes and front-end dev. Currently learning **React.js, Java, and C++**
+
+### Current Project: [UBC Course Matcher](https://ubc-course-matcher.netlify.app/)!
 
 ### Contacts
 [Email](mailto:jennifertaruno@gmail.com) | 
