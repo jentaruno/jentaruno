@@ -1,4 +1,4 @@
-Obsessed with optimising processes and front-end dev. Currently learning **React.js, Java, and C++**
+Obsessed with optimising processes and front-end dev. Currently learning **React.js and Rust**
 
 ### Current Project: [UBC Course Matcher](https://ubc-course-matcher.netlify.app/)!
 
